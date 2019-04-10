@@ -12,3 +12,7 @@ https://vimeo.com/289380770
 # Author
 Miguel Ramos Carretero
 
+# License 
+
+The code is licensed under GNU LGPL V3 (https://www.gnu.org/licenses/lgpl-3.0.txt). Assets are licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)(https://creativecommons.org/licenses/by-sa/4.0/) licence, unless otherwise mentioned. Other assets and models retain their original licenses.
+
